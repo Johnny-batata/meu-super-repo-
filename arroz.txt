@@ -1,0 +1,6 @@
+macaco
+panda
+tigre
+leão
+gorilla
+baleia 
